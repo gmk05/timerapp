@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
-import ProgressBar from './ProgressBar';
+import ProgressBar from './Progressbar';
 import colors from '../constants/colors';
 
 const TimerCard = ({ timer, onStart, onPause, onReset, onComplete }) => {
