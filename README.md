@@ -42,7 +42,28 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+A README.md containing:
+Setup instructions.
+A list of assumptions made during development.
+A customizable timer application with category management, progress visualization, and history tracking.
+
+Features
+Create multiple timers with custom durations
+
+Organize timers by categories
+
+Start/Pause/Reset individual timers
+
+Bulk actions for entire categories
+
+Visual progress indicators
+
+Completion notifications
+
+History log of completed timers
+
+Local data persistence
+
 
 Join our community of developers creating universal apps.
 
